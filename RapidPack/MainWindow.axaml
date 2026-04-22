@@ -20,16 +20,16 @@
         
         <Grid ColumnDefinitions="150, *" RowDefinitions="Auto, Auto, Auto, Auto" Margin="0,5">
             <TextBlock Grid.Row="0" Grid.Column="0" Text="Wysokość (cm):" VerticalAlignment="Center"/>
-            <TextBox Grid.Row="0" Grid.Column="1" x:Name="HeightTextBox" Margin="0,5" Watermark="np. 40"/>
+            <TextBox Grid.Row="0" Grid.Column="1" x:Name="HeightTextBox" Margin="0,5" Watermark="Wprowadź wysokość np. 40"/>
 
             <TextBlock Grid.Row="1" Grid.Column="0" Text="Szerokość (cm):" VerticalAlignment="Center"/>
-            <TextBox Grid.Row="1" Grid.Column="1" x:Name="WidthTextBox" Margin="0,5" Watermark="np. 30"/>
+            <TextBox Grid.Row="1" Grid.Column="1" x:Name="WidthTextBox" Margin="0,5" Watermark="Wprowadź Szerokość np. 30"/>
 
             <TextBlock Grid.Row="2" Grid.Column="0" Text="Głębokość (cm):" VerticalAlignment="Center"/>
-            <TextBox Grid.Row="2" Grid.Column="1" x:Name="DepthTextBox" Margin="0,5" Watermark="np. 50"/>
+            <TextBox Grid.Row="2" Grid.Column="1" x:Name="DepthTextBox" Margin="0,5" Watermark="Wprowadź głębokośc np. 50"/>
 
             <TextBlock Grid.Row="3" Grid.Column="0" Text="Waga (kg):" VerticalAlignment="Center" FontWeight="Bold"/>
-            <TextBox Grid.Row="3" Grid.Column="1" x:Name="WeightTextBox" Margin="0,5" Watermark="max. 30 kg"/>
+            <TextBox Grid.Row="3" Grid.Column="1" x:Name="WeightTextBox" Margin="0,5" Watermark="Podaj wagę max. 30 kg"/>
         </Grid>
 
         <TextBlock Text="Parametry Dodatkowe" FontWeight="SemiBold" Margin="0,10,0,0"/>
