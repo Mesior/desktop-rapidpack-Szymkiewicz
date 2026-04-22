@@ -6,7 +6,7 @@
         Width="450"
         Height="700"
         Padding="20">
-//
+
     <StackPanel Spacing="15">
         <TextBlock Text="Wycena Przesyłki" 
                    FontSize="24" 
