@@ -1369,25 +1369,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/js/.nuget/packages/": {}
+    "C:\\Users\\micha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/js/RiderProjects/RapidPack/RapidPack/RapidPack.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\RiderProjects\\desktop-rapidpack-Szymkiewicz\\RapidPack\\RapidPack.csproj",
       "projectName": "RapidPack",
-      "projectPath": "/Users/js/RiderProjects/RapidPack/RapidPack/RapidPack.csproj",
-      "packagesPath": "/Users/js/.nuget/packages/",
-      "outputPath": "/Users/js/RiderProjects/RapidPack/RapidPack/obj/",
+      "projectPath": "C:\\Users\\micha\\RiderProjects\\desktop-rapidpack-Szymkiewicz\\RapidPack\\RapidPack.csproj",
+      "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\micha\\RiderProjects\\desktop-rapidpack-Szymkiewicz\\RapidPack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/js/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/10.0.102/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1406,7 +1405,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -1449,7 +1448,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.102/libexec/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1726,5 +1725,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Tmds.DBus.Protocol' 0.21.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-xrw6-gwf8-vvr9",
+      "libraryId": "Tmds.DBus.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

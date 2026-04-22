@@ -71,3 +71,14 @@
 /Users/js/RiderProjects/RapidPack/RapidPack/obj/Debug/net10.0/RapidPack.pdb
 /Users/js/RiderProjects/RapidPack/RapidPack/obj/Debug/net10.0/RapidPack.genruntimeconfig.cache
 /Users/js/RiderProjects/RapidPack/RapidPack/obj/Debug/net10.0/ref/RapidPack.dll
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.csproj.AssemblyReference.cache
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\Avalonia\resources
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.AssemblyInfoInputs.cache
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.AssemblyInfo.cs
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.csproj.CoreCompileInputs.cache
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.sourcelink.json
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.dll
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\refint\RapidPack.dll
+C:\Users\micha\RiderProjects\desktop-rapidpack-Szymkiewicz\RapidPack\obj\Debug\net10.0\RapidPack.pdb
